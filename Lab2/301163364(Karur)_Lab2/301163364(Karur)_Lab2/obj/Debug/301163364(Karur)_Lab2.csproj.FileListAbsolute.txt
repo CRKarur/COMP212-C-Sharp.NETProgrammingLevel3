@@ -1,0 +1,12 @@
+D:\Winter 2021\COMP212-C#.NET\Lab Assignments\Lab2\301163364(Karur)_Lab2\301163364(Karur)_Lab2\bin\Debug\301163364(Karur)_Lab2.exe.config
+D:\Winter 2021\COMP212-C#.NET\Lab Assignments\Lab2\301163364(Karur)_Lab2\301163364(Karur)_Lab2\bin\Debug\301163364(Karur)_Lab2.exe
+D:\Winter 2021\COMP212-C#.NET\Lab Assignments\Lab2\301163364(Karur)_Lab2\301163364(Karur)_Lab2\bin\Debug\301163364(Karur)_Lab2.pdb
+D:\Winter 2021\COMP212-C#.NET\Lab Assignments\Lab2\301163364(Karur)_Lab2\301163364(Karur)_Lab2\obj\Debug\301163364(Karur)_Lab2.csprojAssemblyReference.cache
+D:\Winter 2021\COMP212-C#.NET\Lab Assignments\Lab2\301163364(Karur)_Lab2\301163364(Karur)_Lab2\obj\Debug\_301163364_Karur__Lab2.ManageNotificationSubscription.resources
+D:\Winter 2021\COMP212-C#.NET\Lab Assignments\Lab2\301163364(Karur)_Lab2\301163364(Karur)_Lab2\obj\Debug\_301163364_Karur__Lab2.NotificationManager.resources
+D:\Winter 2021\COMP212-C#.NET\Lab Assignments\Lab2\301163364(Karur)_Lab2\301163364(Karur)_Lab2\obj\Debug\_301163364_Karur__Lab2.Properties.Resources.resources
+D:\Winter 2021\COMP212-C#.NET\Lab Assignments\Lab2\301163364(Karur)_Lab2\301163364(Karur)_Lab2\obj\Debug\_301163364_Karur__Lab2.SendNotification.resources
+D:\Winter 2021\COMP212-C#.NET\Lab Assignments\Lab2\301163364(Karur)_Lab2\301163364(Karur)_Lab2\obj\Debug\301163364(Karur)_Lab2.csproj.GenerateResource.cache
+D:\Winter 2021\COMP212-C#.NET\Lab Assignments\Lab2\301163364(Karur)_Lab2\301163364(Karur)_Lab2\obj\Debug\301163364(Karur)_Lab2.csproj.CoreCompileInputs.cache
+D:\Winter 2021\COMP212-C#.NET\Lab Assignments\Lab2\301163364(Karur)_Lab2\301163364(Karur)_Lab2\obj\Debug\301163364(Karur)_Lab2.exe
+D:\Winter 2021\COMP212-C#.NET\Lab Assignments\Lab2\301163364(Karur)_Lab2\301163364(Karur)_Lab2\obj\Debug\301163364(Karur)_Lab2.pdb
